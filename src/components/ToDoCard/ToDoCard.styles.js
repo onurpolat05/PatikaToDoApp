@@ -21,5 +21,6 @@ export default StyleSheet.create({
   },
   textDone: {
     textDecorationLine: 'line-through',
+    color: 'white',
   },
 });
